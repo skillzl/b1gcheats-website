@@ -13,5 +13,5 @@ All the sessions are maintained on `netlify.com` with AWS Services provided by t
 
 ## Developers
 
-<a href="https://skillzl.me" >skillzl.<a/>
-<a href="https://lptw.xyz" >lptw.<a/>
+<a href="https://github.com/skillzl" >skillzl.<a/>
+<a href="https://github.com/lptw" >lptw.<a/>
