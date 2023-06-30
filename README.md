@@ -7,7 +7,7 @@ Freelance project based on a YouTube community with a free range of resources an
 
 b1g Cheaters provides **new-feature** activities with hard worked **backend** whitch reflects a new and improved **frontend**, better **UI** presented to all **around-the-globe** users.
 
-All the sessions are maintained on `netlify.com` with AWS Services provided by the *developer* <a href="https://skillzl.me" >sklz.<a/>
+All the sessions are maintained on `netlify.com` with AWS Services provided by the *developer* <a href="https://github.com/skillzl" >sklz.<a/>
 
 > **Tip:** Always use the lastest release for better experience.
 
